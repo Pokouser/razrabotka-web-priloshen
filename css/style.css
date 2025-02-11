@@ -99,13 +99,19 @@
 .title_h1{
     font-family: "Poppins", serif;
     text-align: center;
-    max-width: 496px;
+    max-width: 550px;
     font-weight: 700;
     font-size: 56px;
     line-height: 107%;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #fff;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+
+    
 }
 
 .hero_btn{
